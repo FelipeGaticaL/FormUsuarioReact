@@ -1,0 +1,18 @@
+/* Todos los botones que tengan de clase button */
+button.button {
+    transition: all 0.5s ease;
+    background-color: #2185D0;
+    border-radius: 4px;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-weight: 700;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+/* El estidlo de button */
+
+button.button:hover{
+    background-color: blue;
+}

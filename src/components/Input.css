@@ -1,0 +1,30 @@
+
+
+
+.field{
+    margin-bottom: 20px;
+}
+
+/* Dando estilo */
+
+.field label{
+   display: block;
+   margin: 0 0 5px 0;
+   color: #222;
+   font-weight: 700;
+   font-size: 20px;
+}
+
+/* estilo de input */
+
+.field input{
+    background-color: #fff;
+    outline: 0;
+    font-size: 20px;
+    padding: 20px 15px;
+    border: 1px solid rbg(34, 34, 34, 0.15);
+    color: #222;
+    border-radius: 4px;
+    width: 100%;
+    box-sizing: border-box;/* Cambia la manera en que se lee el ancho de los inputs como un box */
+} 
